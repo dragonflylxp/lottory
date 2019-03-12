@@ -3,8 +3,8 @@
 import requests
 import ujson
 from dbpool import db_pool
-corpid = "ww59a0c1446c3a3c2c"
-corpsecret = "8IcOQGk12XS8wTJH5qGvMAmwYxUeaJE0pknl2JqGNnU"
+corpid = "*****"
+corpsecret = "******"
 
 
 def get_wechat_access_token():
